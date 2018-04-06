@@ -15,11 +15,11 @@
     },
     "GOOGLE_CAPTCHA_SECRET": {
       "description": "Google captcha secret key",
-      "required": true
+      "required": false
     },
     "GOOGLE_CAPTCHA_SITEKEY": {
       "description": "Google captcha site key",
-      "required": true
+      "required": false
     },
     "SLACK_COC": {
       "description": "A URL to a Code of Conduct people must agree on before joining.",
